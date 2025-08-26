@@ -39,7 +39,7 @@
         {
             "icon": "bi bi-tools",
             "title": "Service Creation Without Coding",
-            "description": "Users can create and manage services of various types, such as Java, COMPOSITION, REST, and more, by simply defining the required fields in the UI. This enables non-developers to handle backend entities, empowering them to perform tasks that traditionally required programming skills."
+            "description": "Users can create and manage services of various types, by simply defining the required fields in the UI. This enables non-developers to handle backend entities, empowering them to perform tasks that traditionally required programming skills."
         },
         {
             "icon": "bi bi-speedometer2",

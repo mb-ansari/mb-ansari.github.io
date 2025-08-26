@@ -1,0 +1,46 @@
+{
+    "title": "Project Details",
+    "breadcrumbs": [
+        {
+            "label": "Home",
+            "link": "/"
+        },
+        {
+            "label": "Project Details",
+            "current": true
+        }
+    ],
+    "projectInfo": {
+        "publicUrl": false,
+        "category": "Web Development",
+        "client": "Refah Bank",
+        "date": "Mar 2022",
+        "url": "This project has not been released yet",
+        "overview": "This project was initiated as part of Refah Bank’s strategic digital transformation efforts, aiming to significantly enhance the quality and accessibility of internet banking services. A fully redesigned and modernized web-based platform was developed to replace the legacy internet banking system. The new system offers a wide spectrum of financial services, remittance and equity reports, tailored to meet the needs of both individual and corporate clients. This solution ensures greater scalability, improved user experience, and aligns with modern banking standards."
+    },
+    "images": [
+        "/assets/images/portfolio/IB-login.png"
+    ],
+    "features": [
+        {
+            "icon": "bi bi-check-circle-fill",
+            "title": "Responsive Design",
+            "description": "The platform was developed as a fully responsive and scalable web application using Next.js and Material UI. It delivers a seamless experience across both desktop and mobile devices through a clean, accessible, and performance-optimized interface. The design prioritizes usability and responsiveness, ensuring a modern app-like experience that adapts elegantly to various screen sizes while supporting complex banking functionalities for both individual and corporate users."
+        },
+        {
+            "icon": "bi bi-shield-check",
+            "title": "Scalable Component Design",
+            "description": "The platform was built with a modular, reusable component structure using Next.js and Material UI. Common UI elements like forms, tables, and modals were abstracted into reusable components, enabling faster development and easier maintenance. File-based routing and server-side rendering improved performance and organization, while custom hooks and context ensured clean and scalable state management."
+        },
+        {
+            "icon": "bi bi-graph-up",
+            "title": "Performance Optimization",
+            "description": "Performance was a key focus of the platform, achieved through server-side rendering (SSR) and static optimization capabilities provided by Next.js. Techniques such as dynamic imports, lazy loading, and code splitting were used to reduce initial load time and improve perceived performance. Reusable, modular components built with Material UI ensured a consistent and responsive user experience across devices—even on lower-end smartphones."
+        },
+        {
+            "icon": "bi bi-gear",
+            "title": "Optimized User Workflows",
+            "description": "Designed and implemented streamlined user workflows to simplify complex banking tasks. By breaking down multi-step processes into clear, manageable steps with real-time validation and helpful UI feedback, the platform reduced user errors and improved efficiency—enhancing overall user satisfaction and task completion rates."
+        }
+    ]
+}

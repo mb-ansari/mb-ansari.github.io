@@ -1,0 +1,48 @@
+{
+  "title": "Project Details",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "link": "/"
+    },
+    {
+      "label": "Project Details",
+      "current": true
+    }
+  ],
+  "projectInfo": {
+    "publicUrl": true,
+    "category": "Web Development",
+    "client": "Refah Bank",
+    "date": "2020",
+    "url": "https://pwa.rb24.ir",
+    "overview": "This project is a comprehensive web-based banking platform developed for Refah Bank, designed to deliver fast, secure, and convenient banking services exclusively via mobile browsers. It enables customers to perform essential financial operations—such as fund transfers, bill payments, check management, and loan services—directly from their smartphones, eliminating the need for in-person banking and improving digital accessibility."
+  },
+  "images": [
+    "/assets/images/portfolio/pwa-mainpage.png",
+    "/assets/images/portfolio/pwa-fundtransfer.png",
+    "/assets/images/portfolio/pwa-billPayment.png"
+  ],
+  "features": [
+    {
+      "icon": "bi bi-check-circle-fill",
+      "title": "Responsive Design",
+      "description": "The platform was specifically designed for mobile devices, ensuring a smooth and intuitive experience through a touch-friendly interface and a layout optimized for smaller screens. Built using React.js and Bootstrap, the design focused on usability, simplicity, and a native app-like feel on mobile web browsers."
+    },
+    {
+      "icon": "bi bi-shield-check",
+      "title": "Advanced Security",
+      "description": "Implemented client-side best practices to enhance application security, including secure handling of sensitive data, input validation, and protection against common vulnerabilities such as XSS (Cross-Site Scripting). Utilized secure HTTPS communications, token-based authentication (e.g., JWT), and ensured that no sensitive logic or credentials were exposed on the client side. Also followed best practices for managing session state and preventing unauthorized access to protected routes and components."
+    },
+    {
+      "icon": "bi bi-graph-up",
+      "title": "Performance Optimization",
+      "description": "Performance was a top priority, achieved through efficient rendering, component reusability, and modern optimization techniques such as lazy loading and code splitting. This resulted in fast load times and responsive user interactions, even on budget smartphones."
+    },
+    {
+      "icon": "bi bi-gear",
+      "title": "Easy Integration",
+      "description": "Designed and structured the frontend to seamlessly consume RESTful APIs using standardized, modular components. Emphasized clean separation of concerns and predictable data flow, enabling efficient and reliable integration with backend services. Careful attention was given to error handling, loading states, and API response validations to ensure smooth user interactions and system stability on the client side."
+    }
+  ]
+}

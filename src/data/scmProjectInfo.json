@@ -1,0 +1,50 @@
+{
+    "title": "Project Details",
+    "breadcrumbs": [
+        {
+            "label": "Home",
+            "link": "/"
+        },
+        {
+            "label": "Project Details",
+            "current": true
+        }
+    ],
+    "projectInfo": {
+        "publicUrl": false,
+        "category": "Web Development",
+        "client": "Refah Bank",
+        "date": "2024",
+        "url": "The project URL and cannot be shared publicly.",
+        "overview": "This project is a UI for the Channel Management System, an interface between multiple banking backends that aggregates responses and delivers them to clients like Internet and Mobile Banking. Users can create and manage services of various types, including Java, COMPOSITION, REST, directly through the UI. By defining fields in the interface, even non-developers can manage backend entities, reducing implementation complexity and empowering non-technical users."
+    },
+    "images": [
+        "/assets/images/portfolio/scm-home.png",
+        "/assets/images/portfolio/scm-logList.png",
+        "/assets/images/portfolio/scm-swagger.png",
+        "/assets/images/portfolio/scm-swagger1.png",
+        "/assets/images/portfolio/scm-createService.png"
+    ],
+    "features": [
+        {
+            "icon": "bi bi-ui-checks",
+            "title": "Visual Interface for Backend Management",
+            "description": "The platform provides a fully visual, user-friendly interface for managing complex backend systems. Users can define terminals, channels, and services directly through the UI, reducing the need for coding and simplifying operations for non-technical staff."
+        },
+        {
+            "icon": "bi bi-diagram-3",
+            "title": "Unified Channel Aggregation",
+            "description": "Channels act as a central interface between multiple banking backend systems, aggregating responses from different sources and delivering them to various clients, including Internet Banking, Mobile Banking, and other services. This unifies disparate systems into a single manageable flow."
+        },
+        {
+            "icon": "bi bi-tools",
+            "title": "Service Creation Without Coding",
+            "description": "Users can create and manage services of various types, such as Java, COMPOSITION, REST, and more, by simply defining the required fields in the UI. This enables non-developers to handle backend entities, empowering them to perform tasks that traditionally required programming skills."
+        },
+        {
+            "icon": "bi bi-speedometer2",
+            "title": "Simplified System Complexity",
+            "description": "The system abstracts the complexity of backend integration, providing a streamlined management experience. By reducing the need for technical expertise, it allows faster onboarding and operational efficiency, while maintaining robust interactions with multiple backend services."
+        }
+    ]
+}

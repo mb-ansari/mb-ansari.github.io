@@ -12,7 +12,8 @@
   ],
   "projectInfo": {
     "publicUrl": true,
-    "category": "Web Development",
+    "className": "pwa",
+    "name": "Mobile Banking PWA",
     "client": "Refah Bank",
     "date": "2020",
     "url": "https://pwa.rb24.ir",

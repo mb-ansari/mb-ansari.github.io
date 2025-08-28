@@ -12,7 +12,8 @@
     ],
     "projectInfo": {
         "publicUrl": false,
-        "category": "Web Development",
+        "className":"scm",
+        "name": "Smart Channel Management",
         "client": "Refah Bank",
         "date": "2024",
         "url": "The project URL and cannot be shared publicly.",

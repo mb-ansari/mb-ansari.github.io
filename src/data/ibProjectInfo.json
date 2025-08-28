@@ -12,7 +12,8 @@
     ],
     "projectInfo": {
         "publicUrl": false,
-        "category": "Web Development",
+        "className": "ib",
+        "name": "Internet banking platform",
         "client": "Refah Bank",
         "date": "Mar 2022",
         "url": "This project has not been released yet",

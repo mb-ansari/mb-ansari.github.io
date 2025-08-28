@@ -67,7 +67,7 @@ const Home = () => {
                 <div className="profile-container">
                   <div className="profile-background"></div>
                   <img
-                    src="/assets/images/person/profile-pic.webp"
+                    src="/assets/images/person/profile-pic.jpg"
                     alt="Mahtab Ansari"
                     className="profile-image"
                   />

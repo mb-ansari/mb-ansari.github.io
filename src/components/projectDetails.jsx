@@ -83,7 +83,7 @@ const ProjectDetails = ({
                 >
                   {images.map((img, i) => (
                     <SwiperSlide key={i}>
-                      <div className="image-container position-relative">
+                      <div className={`image-container position-relative ${projectInfo.className}`}>
                         <img
                           src={img}
                           alt={`Portfolio Image ${i}`}
@@ -117,7 +117,7 @@ const ProjectDetails = ({
                 <h3>Project Information</h3>
                 <ul>
                   <li>
-                    <strong>Category :</strong> {projectInfo.category}
+                    <strong>Name :</strong> {projectInfo.name}
                   </li>
                   <li>
                     <strong>Client :</strong> {projectInfo.client}
